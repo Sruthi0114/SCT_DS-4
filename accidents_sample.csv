@@ -1,0 +1,9 @@
+AccidentID,Date,Time,Location,Latitude,Longitude,RoadCondition,Weather,Severity
+1,2025-10-01,08:15,Main St & 1st Ave,40.7128,-74.0060,Dry,Clear,Minor
+2,2025-10-01,18:30,2nd Ave & 3rd St,40.7135,-74.0050,Wet,Rain,Major
+3,2025-10-02,07:45,5th Ave & Pine St,40.7140,-74.0070,Dry,Fog,Minor
+4,2025-10-02,22:00,Main St & 6th Ave,40.7150,-74.0080,Snow,Snow,Major
+5,2025-10-03,14:20,7th Ave & Oak St,40.7160,-74.0090,Dry,Clear,Minor
+6,2025-10-03,17:50,3rd St & Elm St,40.7170,-74.0100,Wet,Rain,Major
+7,2025-10-04,12:10,1st Ave & Maple St,40.7180,-74.0110,Dry,Clear,Minor
+8,2025-10-04,20:30,4th Ave & Cedar St,40.7190,-74.0120,Icy,Snow,Major
